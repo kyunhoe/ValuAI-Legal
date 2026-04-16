@@ -2,7 +2,7 @@ End User License Agreement (EULA) & Terms of Service
 
 Last Updated: [2026-04-17]
 
-Please read this End User License Agreement ("Agreement") carefully before using [Your App Name] (the "App"). By using the App, you are agreeing to be bound by the terms and conditions of this Agreement.
+Please read this End User License Agreement ("Agreement") carefully before using ValuAI (the "App"). By using the App, you are agreeing to be bound by the terms and conditions of this Agreement.
 1. License Grant
 
 We grant you a revocable, non-exclusive, non-transferable, limited license to use the App strictly in accordance with the terms of this Agreement. This license is for your personal or internal business use only.
@@ -10,7 +10,7 @@ We grant you a revocable, non-exclusive, non-transferable, limited license to us
 
     Estimation Only: The App uses Artificial Intelligence to analyze images and marketplace data to provide a valuation. These figures are estimates and for informational purposes only.
 
-    No Financial Advice: [Your App Name] does not provide professional appraisals, financial advice, or guaranteed sale prices.
+    No guarantees: ValuAI does not provide guaranteed sale prices.
 
     Accuracy: AI models can hallucinate or misinterpret images. We do not warrant the accuracy, completeness, or usefulness of any valuation provided. You should consult a professional appraiser before making financial decisions.
 
